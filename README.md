@@ -2,6 +2,44 @@
 
 **TycheGo** is a 💼 **gig economy iOS App** 💰 that I developed from 0 to 1. It brings your life convenience to the next level, whether you need house repairs, cleaning, or a car wash, the app connects you with skilled professionals at the touch of a button. 
 
+## 📝 Test Accounts
+
+<p align="left">
+  <a href="https://testflight.apple.com/join/Zv6z9R7f" target="_blank">
+    <img alt="Get it on TestFlight"
+         height="80"
+         src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/779a6b3e-ff8e-4a17-8420-4be6aa921682"
+         style="margin-right: 10px;" />
+  </a>
+</p>
+
+Below are some test accounts that you can use to explore the TycheGo app:
+
+- **Phone Number Login**  
+  - **User 1**: 213-555-0000; Verification Code: 123456
+  - **User 2**: 213-555-1111; Verification Code: 123456
+  - **User 3**: 213-555-2222; Verification Code: 123456
+  - **User 4**: 213-555-3333; Verification Code: 123456
+  - **Description**: These accounts can be used to test both customer and service provider functionalities, such as placing orders, browsing services, saving liked services, chatting with business owners, sign up as service providers, setting up payouts, listing services, managing bookings, and viewing earnings.
+
+- **Payment Test Card**  
+  - **Card Number**: 4242 4242 4242 4242
+  - **Expiration Date**: 12/34
+  - **CVC**: Use any three-digit CVC (e.g., 567) or four digits for American Express cards.
+  - **Other Fields**: You can use any value for other form fields.
+  - **Description**: This test card is for simulating payment processes within the app. Use it to test order placements, subscription payments, and any other payment-related functionalities.
+  - **More Information**: [View Stripe Test Card Documentation](https://docs.stripe.com/testing)
+
+- **Service Provider Onboarding Identity Verification**  
+  - **Test Dates of Birth**: `1901-01-01` (Successful verification. Any other DOB results in unsuccessful verification.)
+  - **Test Addresses**: `address_full_match` (Successful verification.)
+  - **Test Personal ID Numbers/Business Tax IDs**: `000000000` (Successful verification. `0000` also works for SSN last 4 verification.)
+  - **Other Fields**: You can use any value for other form fields.
+  - **Description**: Use these test data to simulate identity verification processes during service provider onboarding(account creation, identity verification, and payouts).
+  - **More Information**: [View Stripe Identity Verification Documentation](https://docs.stripe.com/connect/testing#test-verification-addresses)
+
+Feel free to use these accounts to explore different features of the app!
+
 ## App Preview
 <img width="1085" alt="AppOverview" src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/4e08027d-a93d-4c58-ad35-2124d6f30573">
 
