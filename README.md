@@ -76,11 +76,15 @@ The App incorporates a variety of interesting tools and frameworks, and I would 
 
 | Chat History | Manage Orders | Account Info | Customer Support | Account Info |
 |:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
-| <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/995b45c0-ff17-4a9c-84c3-5056d35e9481" width="200"></img> | <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/48b00a5b-e9fe-4413-af84-6ced5a31baaa" width="200"></img> | <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/2e6e4b7c-e37c-4003-b796-048801e795d1" width="200"></img> | <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/6483c855-10eb-4b5f-a4fe-e718fb85fc09" width="200"></img> | <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/7eac3c5b-af20-4324-a44f-66c3c15a0c24" width="200"></img> |
+| <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/995b45c0-ff17-4a9c-84c3-5056d35e9481" width="200"></img> | <img src="https://github.com/user-attachments/assets/940288eb-36c2-40b3-9002-d75e2de07a08" width="200"></img> | <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/2e6e4b7c-e37c-4003-b796-048801e795d1" width="200"></img> | <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/6483c855-10eb-4b5f-a4fe-e718fb85fc09" width="200"></img> | <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/7eac3c5b-af20-4324-a44f-66c3c15a0c24" width="200"></img> |
 
-| Become Worker | Create Profile 1 | Create Profile 2 | 
-|:--------------------------:|:--------------------------:|:--------------------------:|
-| <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/1a1a4e7d-1950-496c-a450-b2185111f34d" width="200"></img> | <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/4facc67b-55f0-47ea-b5a1-5a0962b63348" width="200"></img> | <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/7c8334d0-112d-488b-abf3-29edc4ca0ebf" width="200"></img> | 
+| Become Worker | Create Profile 1 | Create Profile 2 | Business Analytics | Order Detail |
+|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
+| <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/1a1a4e7d-1950-496c-a450-b2185111f34d" width="200"></img> | <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/4facc67b-55f0-47ea-b5a1-5a0962b63348" width="200"></img> | <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_TycheGo/assets/121702916/7c8334d0-112d-488b-abf3-29edc4ca0ebf" width="200"></img> | <img src="https://github.com/user-attachments/assets/02bc59ba-ef54-4d40-8a07-04df7e09ebad" width="200"></img> | <img src="https://github.com/user-attachments/assets/fc37680d-3e31-4fd4-a01a-10e222f26445" width="200"></img> 
+
+| Service Provider Identity Verification | Service Provider Payout Setup |
+|:--------------------------:|:--------------------------:|
+| <img src="https://github.com/user-attachments/assets/3078c7fc-f57b-473e-b755-3da84bd31521" width="200"></img> | <img src="https://github.com/user-attachments/assets/fb0f6edf-2708-49dd-9fcd-1a06ba805bb8" width="200"></img> |
 
 ## Note
 I am actively engaged in debugging to fix bugs and continuously adding new features to the app. 
