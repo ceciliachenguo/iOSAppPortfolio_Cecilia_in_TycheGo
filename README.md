@@ -2,8 +2,6 @@
 
 **TycheGo** is a 💼 **gig economy iOS App** 💰 that I developed from 0 to 1. It brings your life convenience to the next level, whether you need house repairs, cleaning, or a car wash, the app connects you with skilled professionals at the touch of a button. 
 
-## 📝 Test Accounts
-
 <p align="left">
   <a href="https://testflight.apple.com/join/Zv6z9R7f" target="_blank">
     <img alt="Get it on TestFlight"
@@ -12,6 +10,8 @@
          style="margin-right: 10px;" />
   </a>
 </p>
+
+## 📝 Test Accounts
 
 Below are some test accounts that you can use to explore the TycheGo app:
 
